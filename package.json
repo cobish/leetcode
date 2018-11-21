@@ -1,0 +1,10 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
