@@ -1,4 +1,4 @@
-const obj = require('../src/jewels-and-stones.js');
+const obj = require('../src/771.jewels-and-stones.js');
 const numJewelsInStones = obj.numJewelsInStones;
 const numJewelsInStones2 = obj.numJewelsInStones2;
 

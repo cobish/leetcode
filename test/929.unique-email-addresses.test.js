@@ -1,4 +1,4 @@
-const numUniqueEmails = require('../src/unique-email-addresses.js');
+const numUniqueEmails = require('../src/929.unique-email-addresses.js');
 
 test('示例 1-1', () => {
   const arr = [

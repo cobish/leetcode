@@ -1,4 +1,4 @@
-const obj = require('../src/to-lower-case.js');
+const obj = require('../src/709.to-lower-case.js');
 const toLowerCase = obj.toLowerCase;
 const toLowerCase2 = obj.toLowerCase2;
 const toLowerCase3 = obj.toLowerCase3;

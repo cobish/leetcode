@@ -1,4 +1,4 @@
-const obj = require('../src/sort-array-by-parity.js');
+const obj = require('../src/905.sort-array-by-parity.js');
 const sortArrayByParity = obj.sortArrayByParity;
 const sortArrayByParity2 = obj.sortArrayByParity2;
 

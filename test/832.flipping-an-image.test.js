@@ -1,4 +1,4 @@
-const flipAndInvertImage = require('../src/flipping-an-image.js');
+const flipAndInvertImage = require('../src/832.flipping-an-image.js');
 
 test('Example 1', () => {
   const arr = [

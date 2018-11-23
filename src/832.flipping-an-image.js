@@ -1,6 +1,5 @@
 /**
- * 翻转图像
- * 
+ * 832.翻转图像
  * https://leetcode-cn.com/problems/flipping-an-image/description/
  */
 
