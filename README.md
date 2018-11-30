@@ -12,5 +12,6 @@
 |832|[翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/832.flipping-an-image.js)||Easy|
 |852|[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/852.peak-index-in-a-mountain-array.js)||Easy|
 |905|[按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/905.sort-array-by-parity.js)||Easy|
+|922|[按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/922.sort-array-by-parity-ii.js)||Easy|
 |929|[独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/929.unique-email-addresses.js)||Easy|
 
