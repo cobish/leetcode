@@ -7,7 +7,6 @@ const {
   createTree
 } = require('../src/utils/binaryTree.js');
 
-
 test('Example 1-1', () => {
   const arr = [3, 9, 20, null, null, 15, 7];
 
