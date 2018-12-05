@@ -14,8 +14,12 @@ function createTree (arr) {
 
   var nodeList = [];
   for (var i = 0; i < arr.length; i++) {
-    var node = new TreeNode(arr[i]);
-    nodeList.push(node);
+    if (arr[i]) {
+      var node = new TreeNode(arr[i]);
+      nodeList.push(node);
+    } else {
+      nodeList.push(null);
+    }
   }
 
   for (var j = 0; j < nodeList.length; j++) {
@@ -41,14 +45,22 @@ function printTree (node) {
 
   if (node) {
     arr.push(node.val);
-    arr = arr.concat(printTree(node.left));
-    arr = arr.concat(printTree(node.right));
+
+    if (node.left || node.right) {
+      arr = arr.concat(printTree(node.left));
+    }
+    if (node.right) {
+      arr = arr.concat(printTree(node.right));
+    }
+  } else {
+    arr.push(node);
   }
 
   return arr;
 }
 
 module.exports = {
+  TreeNode,
   createTree,
   printTree
 };

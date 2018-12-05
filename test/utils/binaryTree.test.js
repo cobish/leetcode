@@ -10,3 +10,11 @@ test('create tree', () => {
   const root = createTree(arr);
   expect(printTree(root)).toEqual(res);
 });
+
+test('create tree 2', () => {
+  const arr = [1, 2, null, 3];
+  const res = [1 ,2, 3];
+
+  const root = createTree(arr);
+  expect(printTree(root)).toEqual(res);
+});
