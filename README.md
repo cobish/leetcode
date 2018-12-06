@@ -4,6 +4,7 @@
 |----|------|-----|------|------|
 | 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) | [JavaScript](https://github.com/cobish/leetcode/blob/master/src/104.maximum-depth-of-binary-tree.js) |  | Easy |
 | 226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/) | [JavaScript](https://github.com/cobish/leetcode/blob/master/src/226.invert-binary-tree.js) | | Easy |
+| 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/description/) | [JavaScript](https://github.com/cobish/leetcode/blob/master/src/344.reverse-string.js) | | Easy |
 |461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/461.hamming-distance.js)||Easy|
 |476|[数字的补数](https://leetcode-cn.com/problems/number-complement/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/476.number-complement.js)||Easy|
 |617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/617.merge-two-binary-trees.js)||Easy|
