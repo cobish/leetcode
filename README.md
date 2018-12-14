@@ -9,7 +9,7 @@
 |476|[数字的补数](https://leetcode-cn.com/problems/number-complement/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/476.number-complement.js)||Easy|
 |617|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/617.merge-two-binary-trees.js)||Easy|
 |657|[机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/657.robot-return-to-origin.js)||Easy|
-|709|[转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/709.to-lower-case.js)||Easy|
+|709|[转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/709.to-lower-case.js)|[Tip](https://github.com/cobish/leetcode/issues/2)|Easy|
 |771|[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/771.jewels-and-stones.js)|[Tip](https://github.com/cobish/leetcode/issues/1)|Easy|
 |804|[唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/804.unique-morse-code-words.js)||Easy|
 |832|[翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/832.flipping-an-image.js)||Easy|
