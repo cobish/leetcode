@@ -20,4 +20,5 @@
 |922|[按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/922.sort-array-by-parity-ii.js)|
 |942|[增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/)|[JavaScript](https://github.com/cobish/leetcode/issues/3)|
 |929|[独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/929.unique-email-addresses.js)|
-
+|961|[重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)|[JavaScript](https://github.com/cobish/leetcode/issues/4)|
+|977|[有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[JavaScript](https://github.com/cobish/leetcode/issues/5)|
