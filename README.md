@@ -6,6 +6,7 @@
 |----|------|-----|
 | 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) | [JavaScript](https://github.com/cobish/leetcode/blob/master/src/104.maximum-depth-of-binary-tree.js) |
 | 226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/) | [JavaScript](https://github.com/cobish/leetcode/blob/master/src/226.invert-binary-tree.js) |
+|237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[JavaScript](https://github.com/cobish/leetcode/issues/6)|
 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/description/) | [JavaScript](https://github.com/cobish/leetcode/blob/master/src/344.reverse-string.js) |
 |461|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/461.hamming-distance.js)|
 |476|[数字的补数](https://leetcode-cn.com/problems/number-complement/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/476.number-complement.js)|
