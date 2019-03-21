@@ -24,3 +24,4 @@
 |929|[独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/description/)|[JavaScript](https://github.com/cobish/leetcode/blob/master/src/929.unique-email-addresses.js)|
 |961|[重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)|[JavaScript](https://github.com/cobish/leetcode/issues/4)|
 |977|[有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|[JavaScript](https://github.com/cobish/leetcode/issues/5)|
+|985|[查询后的偶数和](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/comments/)|[JavaScript](https://github.com/cobish/leetcode/issues/8)|
